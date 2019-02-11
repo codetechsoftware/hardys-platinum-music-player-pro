@@ -1,3 +1,3 @@
-# hardys-platinum-music-player-pro
-💻 CodeTech 💾 Software 📲 Under Construction
+# 💻 CodeTech 💾 Software 📲 Under Construction
+
 Android Music Player Coming Real Soon...
